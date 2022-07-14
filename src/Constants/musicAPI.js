@@ -1,0 +1,1 @@
+export const MUSIC_API = 'https://api.openopus.org/';
